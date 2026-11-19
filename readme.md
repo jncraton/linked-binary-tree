@@ -12,6 +12,7 @@ After completing this experience, learners will be able to:
 2. Implement recursive preorder traversal
 3. Implement recursive inorder traversal
 4. Implement recursive postorder traversal
+5. Free a binary tree without leaking memory
 
 ## Usage
 
