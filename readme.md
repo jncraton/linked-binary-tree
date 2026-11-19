@@ -38,5 +38,6 @@ make test
 
 ## Resources
 
+- [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
 - [recursion](https://en.wikibooks.org/wiki/C_Programming/Procedures_and_functions#Recursion)
 - [OpenDSA Binary Tree Traversals](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BinaryTreeTraversal.html) for conceptual details.
