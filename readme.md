@@ -1,6 +1,8 @@
-# Binary Tree Traversals
+# Linked Binary Tree
 
 Implement preorder, inorder, and postorder traversals and free a tree without leaking memory.
+
+![Linked Binary Tree](tree.svg)
 
 ## Learning Outcomes
 
