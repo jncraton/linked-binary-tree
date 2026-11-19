@@ -1,6 +1,6 @@
 # Binary Tree Traversals
 
-This lab introduces the concept of binary tree traversals. You will implement the three standard traversals: preorder, inorder, and postorder.
+Implement preorder, inorder, and postorder traversals and free a tree without leaking memory.
 
 ## Learning Outcomes
 
@@ -38,10 +38,5 @@ make test
 
 ## Resources
 
-In order to complete this implementation, you will use [recursion](https://en.wikibooks.org/wiki/C_Programming/Procedures_and_functions#Recursion) to visit nodes. Each traversal follows a specific order:
-
-- Preorder: Visit root, then left subtree, then right subtree.
-- Inorder: Visit left subtree, then root, then right subtree.
-- Postorder: Visit left subtree, then right subtree, then root.
-
-Refer to the [OpenDSA Binary Tree Traversals](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BinaryTreeTraversal.html) page for conceptual details.
+- [recursion](https://en.wikibooks.org/wiki/C_Programming/Procedures_and_functions#Recursion)
+- [OpenDSA Binary Tree Traversals](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BinaryTreeTraversal.html) for conceptual details.
