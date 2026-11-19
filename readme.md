@@ -34,6 +34,7 @@ make test
 1. Implement `preorder`
 2. Implement `inorder`
 3. Implement `postorder`
+4. Implement the deconstructor so that all nodes are freed.
 
 ## Resources
 
